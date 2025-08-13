@@ -1,5 +1,5 @@
 # SteamWorldDig2-UA
-Переопрацьований Українізатор від `toloka.to` за авторства користувача `b-y` для гри SteamWorld Dig 2
+Адаптована версія Українізатора від `toloka.to` (автор: `b-y`) для гри SteamWorld Dig 2
 
 Посилання на оригінал: https://toloka.to/t84497
 
